@@ -1,1 +1,1 @@
-# Napredne_tehnike_programiranja_III_godina
+# Napredne tehnike programiranja - III godina
